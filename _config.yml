@@ -18,27 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blog Title # Make a title for your blog
-email: author_email@email.com # Add your email 
+title: CodeStack # Make a title for your blog
+email: kelseymoore2020@gmail.com # Add your email 
 description: >- # this means to ignore newlines until "baseurl:"
- Change the description so that it describes your blog
+ Follow along as I learn more about coding in Statistics 386 (Data Science Processes) at Brigham Young University
 baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
-url: "https://esnt.github.io" #  change this to "https://<your-github-username>.github.io"
-image: /assets/images/image5.jpg
-author: Your name
-copyright: ABCD # Your initials or what you want the copyright to be.  Leave empty for no copyright
+url: "https://kbmoore.github.io" #  change this to "https://<your-github-username>.github.io"
+image: /assets/images/headerimage.jpg
+author: Kelsey Moore
+copyright: KBM # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
 # Social media users names.  Leave fields blank that you don't want displayed
-twitter_username: 386student
-github_username:  386student
-linkedin_username: 386student
+twitter_username: 
+github_username: kbmoore02
+linkedin_username: kelsey-moore-byu
 dribbble_username: 
-facebook_username: 386student
-flickr_username:
-instagram_username: 
+facebook_username: 
+flickr_username: 
+instagram_username: kelsey.b.moore
 pinterest_username:
 youtube_username: 
-googleplus_username: 386student
+googleplus_username: 
 
 
 # Build settings
