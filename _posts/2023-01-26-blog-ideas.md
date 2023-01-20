@@ -10,4 +10,6 @@ For my how-to post, I'm thinking about writing about how to use the ggplot packa
 
 I am planning on reading a book called "The Age of Surveillance Capitalism" by Shoshana Zuboff.
 
+<img src="https://raw.githubusercontent.com/kbmoore02/my386blog/main/assets/images/theageof.jpg" alt="" style="width:200px;">
+
 I haven't thought much about the class project yet, but I think it would be interesting to gather data about the ozone layer and see how human efforts to improve pollution affected the healing of the hole in the ozone.
