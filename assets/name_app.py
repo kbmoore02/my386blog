@@ -1,6 +1,6 @@
+import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import streamlit as st
 
 url = 'https://github.com/esnt/Data/raw/main/Names/popular_names.csv'
 df = pd.read_csv(url)
