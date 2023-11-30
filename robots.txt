@@ -1,1 +1,3 @@
 User-agent: *
+Disallow: /my386blog/about/
+Disallow: /my386blog/feed.xml
