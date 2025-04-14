@@ -3,7 +3,7 @@ layout: post
 title: "Data Scraping"
 author: Kelsey Moore
 description: Gather daily data for all 32 NHL teams
-image: /assets/images/unsup_header.png
+image: /assets/images/hockey1-header.png
 ---
 
 # Introduction
