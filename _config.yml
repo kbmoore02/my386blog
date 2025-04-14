@@ -19,10 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: CodeStack # Make a title for your blog
-email: kelseymoore2020@gmail.com # Add your email 
+email: kbmoore@byu.edu # Add your email 
 description: >- # this means to ignore newlines until "baseurl:"
- Follow along as I apply statistics to my interests and hobbies!
-baseurl: "/mydatascienceblog" # keep this the same or change it to the name of the repository 
+ Follow along as I learn more about coding!
+baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
 url: "https://kbmoore.github.io" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/headerimage.jpg
 author: Kelsey Moore
